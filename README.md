@@ -1,6 +1,6 @@
 # Softviser
 
-![Softviser Logo]([logo-url](https://softviser.com.tr/images/logo.png))
+![Softviser Logo](https://softviser.com.tr/images/logo.png)
 
 Softviser, modern teknolojiler ve yenilikçi çözümlerle işletmelerin dijital dönüşüm yolculuğunda güvenilir bir teknoloji ortağıdır. 20 yılı aşkın sektör deneyimi ile müşterilerimize özel yazılım çözümleri, sistem entegrasyonu ve dijital dönüşüm danışmanlığı hizmetleri sunuyoruz.
 
